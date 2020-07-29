@@ -1,0 +1,18 @@
+{
+    "operator": {
+        "isAvailable": true
+    },
+    "millingMachine": {
+        "isAvailable": true
+    },
+    "camera": {
+        "isAvailable": true
+    },
+    "embossor": {
+        "isAvailable": true
+    },
+    "states": {
+        "LABEL_STATE": 0,
+        "DRILL_STATE": 0
+    }
+}
